@@ -1,3 +1,6 @@
+![image](https://github.com/PaulSoumyajit/face-link/assets/123751553/735b0d50-c8f0-42e9-92c8-e3b9115599dc)
+
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
